@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv) 1=3
-prit("Uage: python student.py <name> <roll no>
+prit("Uage: python student.py <name> <roll>
      sys.exit(1)
      script_name = sys.argv[0]
 name = sys.aryv[1]
